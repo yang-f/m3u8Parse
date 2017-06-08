@@ -1,8 +1,9 @@
 //
 //  M3u8Handler.h
+//  m3u8Parse
 //
-//  Created by yangfei on 16-06-08.
-//  Copyright (c) 2016年 hulu. All rights reserved.
+//  Created by if on 08/06/2017.
+//  Copyright © 2017 flying. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
